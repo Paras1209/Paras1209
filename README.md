@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing BTech in Software Engineering 
 - 💞️ I’m looking to collaborate on Bigger projects in future preferrence will be given to Web Development.
 - 📫 Always open to contact MAIL on kanojiaparas582@gmail.com .
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him🩳
 - ⚡ Fun fact: Coding is more intersting than anyone's ex ... flip the table you will find out nothing is more complicated than it even not your Girlfriend🤰.
 
 <!---
