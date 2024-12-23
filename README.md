@@ -11,7 +11,7 @@
 
 💻 Current Projects:
 
-    Anniversary Gift Website: A dynamic full-stack project featuring personalized photo galleries, interactive routes, and creative animations. Built with love and the MERN stack.
+    Memory Website: A dynamic full-stack project featuring personalized photo galleries, interactive routes, and creative animations. Built with love and the MERN stack.
     Ad Integration Platform: Developing a robust system with ad management dashboards, analytics, ad-block detection, and optimization features.
 
 💡 Fun Fact: Coding is like life—messy, thrilling, and endlessly rewarding. It's definitely more interesting than your ex. (Flip the table, and you might agree it’s more complicated than your girlfriend too. 😉)
