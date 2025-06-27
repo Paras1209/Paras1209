@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Paras Kanojia
+![github-header-image](https://github.com/user-attachments/assets/6c5d8324-f728-48f1-9d4b-8d696a561751)
+
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=paras1209&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="https://twitter.com/kanojia16_paras" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/kanojia16_paras?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-    </a>
 </div>
 
 ## 🎓 About Me
@@ -13,7 +11,7 @@
 - DSA Enthusiast & Problem Solver
 
 ## 🚀 Current Focus
-- 🔭 Working on **Uber Clone**
+- 🔭 Working on **JobJolt**
 - 🌱 Learning **Machine Learning**
 - 👯 Looking to collaborate on [VisualX](https://visualx.onrender.com/)
 
